@@ -11,12 +11,11 @@ This repository is a curated collection of hands-on projects aimed at helping be
 
 ## 🧠 Projects Included
 
-- Linear Regression on House Prices
-- Classification using K-Nearest Neighbors
-- Decision Trees and Random Forests
-- Logistic Regression on Binary Classification
-- Clustering with K-Means
-- Image classification using basic Neural Networks (coming soon)
+- [Project 1: Rock vs Mine Prediction](./Project_1_Rock_vs_Mine_Prediction)
+- [Project 2: Diabetes Prediction](./Project_2_Diabetes_Prediction)
+- [Project 3: House Price Prediction](./Project_3_House_Price_Prediction)
+- [Project 4: Fake News Prediction](./Project_4_Fake_News_Prediction)
+
 
 > New projects will be added regularly. Stay tuned!
 
